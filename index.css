@@ -82,8 +82,8 @@ body{
     color: yellow;
 }
 .contact-info ul li .text{
-    font-weight: bold;
     font-size: 16px;
+    color: white;
 }
 
 .contact-info.education{
@@ -94,6 +94,7 @@ body{
 }
 .contact-info.education h4{
     margin-top: 10px;
+    color: #fff;
 }
 
 .profileText .imgBx img{
@@ -146,7 +147,8 @@ body{
 .skills .box .percent{
     position: relative;
     width: 100%;
-    height: 10px;
+    height: 21px;
+    text-align: center;
     background: rgb(193, 176, 176);
 }
 .skills .box .percent div{
